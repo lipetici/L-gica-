@@ -43,4 +43,6 @@ if (numeroSecreto > chute) {
 }
     } else {
         alert('Game Over:\nVoce perdeu!\n\nTente novamente.');
-        break; }
+        break; 
+   }
+   }
